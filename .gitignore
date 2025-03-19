@@ -1,0 +1,32 @@
+# Ignore .vscode folder
+.vscode/
+
+# Ignore node_modules folder
+node_modules/
+
+# Ignore logs and databases
+*.log
+*.db
+*.sqlite
+*.egg
+
+# Ignore OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Ignore temporary files
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# Ignore cache files
+*.cache
+*.pyc
+*.pyo
+__pycache__/
